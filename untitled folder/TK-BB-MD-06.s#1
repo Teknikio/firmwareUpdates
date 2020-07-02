@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.5.0">
+<eagle version="9.5.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -4402,7 +4402,7 @@ PADS</text>
 </instance>
 <instance part="C11" gate="G$1" x="177.8" y="236.22" smashed="yes">
 <attribute name="NAME" x="179.324" y="236.601" size="1.778" layer="95"/>
-<attribute name="VALUE" x="205.74" y="172.339" size="1.778" layer="96"/>
+<attribute name="VALUE" x="179.324" y="231.521" size="1.778" layer="96"/>
 </instance>
 <instance part="C12" gate="G$1" x="187.96" y="236.22" smashed="yes">
 <attribute name="NAME" x="189.484" y="236.601" size="1.778" layer="95"/>
